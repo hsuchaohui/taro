@@ -1,0 +1,5 @@
+{
+  "name": "紫微星塔羅 (Mystic Tarot)",
+  "description": "A mysterious and vintage-style Tarot reading application using the Major Arcana. Features Traditional Chinese content, horizontal card selection, Gemini-powered interpretations, and local history storage.",
+  "requestFramePermissions": []
+}
